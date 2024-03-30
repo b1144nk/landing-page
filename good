@@ -1,0 +1,29 @@
+[33mcommit 8cc4bd5223d9d269274cfa328275add3b494980c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: b1144nk <amir.mahdi.1283212@gmail.com>
+Date:   Fri Mar 29 12:19:39 2024 +0330
+
+    Make and style content-two
+    
+    Finished the html and css of content-two
+
+[33mcommit 003ee6dc406989409acd3f3a07d9f9edd500087b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: b1144nk <amir.mahdi.1283212@gmail.com>
+Date:   Thu Mar 28 16:32:24 2024 +0330
+
+    Start content-two
+    
+    Was gathering Ramen types and pictures
+
+[33mcommit c01e082f028948c73a9ef76137715d3a793b291e[m
+Author: b1144nk <amir.mahdi.1283212@gmail.com>
+Date:   Thu Mar 28 15:55:32 2024 +0330
+
+    Finish the header and content one
+    
+    Completed the html and css of header and content one
+
+[33mcommit d88a3742f30f2aafbb156557f956805a595d8dc1[m
+Author: Amirmahdi <147322957+b1144nk@users.noreply.github.com>
+Date:   Thu Mar 28 12:25:32 2024 +0330
+
+    Initial commit
