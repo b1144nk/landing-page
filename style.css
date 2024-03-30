@@ -131,7 +131,7 @@ p em {
 }
 
 .content-four {
-  background-color: #FFE6E6;
+  background-color: #f4e2ff;
   padding: 70px;
   display: flex;
   justify-content: center;
@@ -159,4 +159,13 @@ p em {
 
 .texts p {
   color: rgb(165, 165, 165);
+}
+
+.footer {
+  color: #e7bfe5;
+  background-color: #7469B6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
 }
